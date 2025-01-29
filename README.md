@@ -28,7 +28,7 @@
 
 ### 🎮 Hobbies
 - ![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white) Escuchar música.
-- ![Películas](https://img.shields.io/badge/-Películas-000000?style=flat-square&logo=themoviedatabase&logoColor=white) Ver pelis de terror.
+- ![Netflix](https://img.shields.io/badge/-Netflix-E50914?style=flat-square&logo=netflix&logoColor=white) Ver pelis de terror.
 - 💻 Programar 
   
 ### 🚀 Contribuciones Recientes
