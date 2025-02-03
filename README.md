@@ -16,13 +16,12 @@
 ### 🛠️ Tecnologías y Herramientas
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ### 📊 Estadísticas de GitHub
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical)
 
 ### 🔭 Actualmente
-- 🌱 Sigo prendiendo **python**.
+- 🌱 Sigo prendiendo **JAVA**.
 - 🛠️ Trabajando en un proyecto de **automatización de tareas**.
 
 ### 🎮 Hobbies
