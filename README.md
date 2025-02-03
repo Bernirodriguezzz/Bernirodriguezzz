@@ -10,8 +10,7 @@
 
 ### 👨‍💻 Sobre Mí
 - 🎓 Estudiante de desarrollo en Software.
-- 🌱 Aprendiendo sobre IA y Machine Learning.
-- 🐶 Tengo un perro llamado "Homero" (como homero simpsons!).
+- 🌱 Aprendiendo sobre IT.
 
 
 ### 🛠️ Tecnologías y Herramientas
